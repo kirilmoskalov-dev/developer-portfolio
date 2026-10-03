@@ -69,7 +69,8 @@ const translations = {
         githubLink: "GitHub",
         instagramLink: "My Instagram — I'm a positive person xD",
         themeDark: "Dark Mode",
-        themeLight: "Light Mode"
+        themeLight: "Light Mode",
+       telegramLink: "My Telegram — Feel free to message me xD"
 
     },
 
@@ -96,7 +97,8 @@ const translations = {
         githubLink: "GitHub",
         instagramLink: "Mijn Instagram — ik ben een positief persoon xD",
         themeDark: "Donkere modus",
-        themeLight: "Lichte modus"
+        themeLight: "Lichte modus",
+        telegramLink: "Mijn Telegram — Stuur me gerust een berichtje xD"
 
     },
 
@@ -123,7 +125,8 @@ const translations = {
         githubLink: "GitHub",
         instagramLink: "Мой Instagram — я позитивный человек xD",
         themeDark: "Тёмный режим",
-        themeLight: "Светлый режим"
+        themeLight: "Светлый режим",
+        telegramLink: "Мой Telegram — пишите смело xD"
     },
 
     ua: {
@@ -149,7 +152,8 @@ const translations = {
         githubLink: "GitHub",
         instagramLink: "Мій Instagram — я позитивна людина xD",
         themeDark: "Темний режим",
-        themeLight: "Світлий режим"
+        themeLight: "Світлий режим",
+        telegramLink: "Мій Telegram — сміливо пишіть мені xD"
     }
 };
 
@@ -177,6 +181,7 @@ function setLanguage(language) {
     document.querySelector("#emailLink").textContent = text.emailLink;
     document.querySelector("#githubLink").textContent = text.githubLink;
     document.querySelector("#instagramLink").textContent = text.instagramLink;
+    document.querySelector("#telegramLink").textContent = text.telegramLink;
 
     themeButton.textContent = document.body.classList.contains("dark-mode")
     ? text.themeLight
