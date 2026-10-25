@@ -47,11 +47,12 @@ enButton.addEventListener("click", function() {
 
 const translations = {
     en: {
-        title: "Kiril — Software Developer",
-        subtitle: "Python • JavaScript • HTML • CSS",
-        heroText: "I build projects, solve problems, and learn new technologies.",
+        headerText: "Aspiring Software Developer | Pre-Junior Learning Milestone",
+        title: "Kiril — Aspiring Software Developer",
+        subtitle: "Python • JavaScript • HTML • CSS • DOM • Git & GitHub",
+        heroText: "From my first lines of code to building real projects. I turn curiosity into code, solve problems, and keep learning every day.",
         aboutTitle: "About Me",
-        aboutText: "I am an aspiring Software Developer from the Netherlands. I am learning Python, JavaScript, HTML, and CSS, and I enjoy building projects and solving problems. I am continuously improving my programming and web development skills.",
+        aboutText: "Hi, I'm Kiril, an aspiring Software Developer based in the Netherlands. I started my programming journey in August 2026 and have been building projects using Python, JavaScript, HTML, and CSS. My biggest ongoing project is ExploreWorld, a travel website featuring cities, attractions, interactive features, and multilingual support. I enjoy debugging, solving problems, and understanding how code works. I recently reached my personal Pre-Junior learning milestone, and my long-term goal is to become a professional Software Developer and build my future in the United States.",
         projectsButton: "Show my projects",
         projectsInfo: "Here you can find my programming projects.",
         contactText: "If you would like to contact me, you can reach me by email or visit my GitHub.",
@@ -75,11 +76,12 @@ const translations = {
     },
 
     nl: {
-        title: "Kiril — Softwareontwikkelaar",
-        subtitle: "Python • JavaScript • HTML • CSS",
-        heroText: "Ik bouw projecten, los problemen op en leer nieuwe technologieën.",
+        headerText: "Beginnend softwareontwikkelaar | Persoonlijke Pre-Junior-leermijlpaal",
+        title: "Kiril — Beginnend softwareontwikkelaar",
+        subtitle: "Python • JavaScript • HTML • CSS • DOM • Git & GitHub",
+        heroText: "Van mijn eerste regels code tot het bouwen van echte projecten. Ik zet nieuwsgierigheid om in code, los problemen op en leer elke dag bij.",
         aboutTitle: "Over mij",
-        aboutText: "Ik ben een beginnend Softwareontwikkelaar uit Nederland. Ik leer Python, JavaScript, HTML en CSS en ik vind het leuk om projecten te bouwen en problemen op te lossen. Ik verbeter voortdurend mijn programmeer- en webontwikkelingsvaardigheden.",
+        aboutText: "Hoi, ik ben Kiril, een beginnend softwareontwikkelaar die in Nederland woont. Ik begon in augustus 2026 met programmeren en bouw sindsdien projecten met Python, JavaScript, HTML en CSS. Mijn grootste lopende project is ExploreWorld, een reiswebsite met steden, bezienswaardigheden, interactieve functies en ondersteuning voor meerdere talen. Ik vind het leuk om fouten op te sporen, problemen op te lossen en te begrijpen hoe code werkt. Onlangs bereikte ik mijn persoonlijke Pre-Junior-leermijlpaal. Mijn langetermijndoel is om professioneel softwareontwikkelaar te worden en mijn toekomst op te bouwen in de Verenigde Staten.",
         projectsButton: "Bekijk mijn projecten",
         projectsInfo: "Hier vind je mijn programmeerprojecten.",
         contactText: "Als je contact met mij wilt opnemen, kun je mij een e-mail sturen of mijn GitHub bezoeken.",
@@ -103,12 +105,12 @@ const translations = {
     },
 
     ru: {
-        title: "Кирилл — Разработчик программного обеспечения",
-        subtitle: "Python • JavaScript • HTML • CSS",
-        heroText: "Я создаю проекты, решаю проблемы и изучаю новые технологии.",
+        headerText: "Начинающий разработчик | Личный учебный уровень Pre-Junior",
+        title: "Кирилл — Начинающий разработчик",
+        subtitle: "Python • JavaScript • HTML • CSS • DOM • Git & GitHub",
+        heroText: "От первых строк кода до создания настоящих проектов. Я превращаю любопытство в код, решаю задачи и каждый день продолжаю учиться.",
         aboutTitle: "Обо мне",
-        aboutText: "Я начинающий разработчик программного обеспечения из Нидерландов. Я изучаю Python, JavaScript, HTML и CSS, мне нравится создавать проекты и решать проблемы. Я постоянно улучшаю свои навыки программирования и веб-разработки.",
-        projectsButton: "Показать мои проекты",
+        aboutText: "Привет! Я Кирилл, начинающий разработчик программного обеспечения, живущий в Нидерландах. Я начал изучать программирование в августе 2026 года и с тех пор создаю проекты с использованием Python, JavaScript, HTML и CSS. Мой самый большой текущий проект — ExploreWorld, сайт о путешествиях с городами, достопримечательностями, интерактивными функциями и поддержкой нескольких языков. Мне нравится находить и исправлять ошибки, решать задачи и понимать, как работает код. Недавно я достиг личного учебного уровня Pre-Junior. Моя долгосрочная цель — стать профессиональным разработчиком и построить своё будущее в США.",
         projectsInfo: "Здесь вы можете найти мои проекты по программированию.",
         contactText: "Если вы хотите связаться со мной, вы можете написать мне по электронной почте или посетить мой GitHub.",
         headerText: "Разработчик программного обеспечения в процессе обучения",
@@ -130,11 +132,12 @@ const translations = {
     },
 
     ua: {
-        title: "Кіріл — Розробник програмного забезпечення",
-        subtitle: "Python • JavaScript • HTML • CSS",
-        heroText: "Я створюю проєкти, вирішую проблеми та вивчаю нові технології.",
+        headerText: "Розробник-початківець | Особистий навчальний рівень Pre-Junior",
+        title: "Кіріл — Розробник-початківець",
+        subtitle: "Python • JavaScript • HTML • CSS • DOM • Git & GitHub",
+        heroText: "Від перших рядків коду до створення справжніх проєктів. Я перетворюю цікавість на код, розв'язую завдання та щодня продовжую навчатися.",
         aboutTitle: "Про мене",
-        aboutText: "Я початківець у розробці програмного забезпечення з Нідерландів. Я вивчаю Python, JavaScript, HTML і CSS, люблю створювати проєкти та вирішувати проблеми. Я постійно вдосконалюю свої навички програмування та веброзробки.",
+        aboutText: "Привіт! Я Кіріл, розробник програмного забезпечення-початківець, який живе в Нідерландах. Я почав вивчати програмування в серпні 2026 року й відтоді створюю проєкти за допомогою Python, JavaScript, HTML і CSS. Мій найбільший поточний проєкт — ExploreWorld, сайт про подорожі з містами, пам'ятками, інтерактивними функціями та підтримкою кількох мов. Мені подобається знаходити й виправляти помилки, розв'язувати завдання та розуміти, як працює код. Нещодавно я досяг особистого навчального рівня Pre-Junior. Моя довгострокова мета — стати професійним розробником і побудувати своє майбутнє у США.",
         projectsButton: "Показати мої проєкти",
         projectsInfo: "Тут ви можете знайти мої проєкти з програмування.",
         contactText: "Якщо ви хочете зв’язатися зі мною, ви можете написати мені електронною поштою або відвідати мій GitHub.",
